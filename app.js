@@ -18,14 +18,14 @@ function addition(){
 
 function newCard(){
 	
-/*	document.getElementById("answer").value = '';
+	document.getElementById("answer").value = '';
 	num1 = Math.floor(Math.random()*10)+1;
 	num2 = Math.floor(Math.random()*10)+1;
 	document.getElementById("header").innerHTML= num1 +"+" +num2;
 	compAnswer = num1+num2;
-	SetFocus()*/
+	SetFocus()
 	
-	ranOpr = Math.floor(Math.random()*4)+1;
+/*	ranOpr = Math.floor(Math.random()*4)+1;
 	switch (compAnswer)
 	case 1
 	Addiditon:
@@ -33,7 +33,7 @@ function newCard(){
 	Subtract;
 	break;
 	case 3
-	case 4
+	case 4*/
 	
 	
 	
